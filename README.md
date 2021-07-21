@@ -37,6 +37,6 @@ Here are some ideas to get you familier about me:
 
 ## My tutorials:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=PDE&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/PDE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=PDE&theme=tokyonight&border_radius=0)](https://github.com/ArunM69/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=quantum-simulation&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/quantum-simulation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Git-GitHub-and-Version-Control-Tutorial&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
