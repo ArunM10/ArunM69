@@ -33,10 +33,10 @@ Here are some ideas to get you familier about me:
 <h3 align="left">Skills and interest in Physics:</h3>
 <a href=""><img src="https://img.shields.io/badge/-Quantum computing and information-313131?style=for-the-badge&labelColor=313131&logo=Quantum&logoColor=green&color=313131"></img></a>
 <a href=""><img src="https://img.shields.io/badge/-Quantum sensing and metrology-313131?style=for-the-badge&labelColor=313131&logo=Quantum&logoColor=blue&color=313131"></img></a>
-<a href=""><img src="https://img.shields.io/badge/-Quantum machine learning-313131?style=for-the-badge&labelColor=313131&logo=Quantum&logoColor=blue&color=313131"></img></a>
+<a href=""><img src="https://img.shields.io/badge/-Quantum machine learning-313131?style=for-the-badge&labelColor=313131&logo=Quantum&logoColor=white&color=313031"></img></a>
 
 ## My tutorials:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=PDE&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/PDE)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=quantum-simulation&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/quantum-simulation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Git-GitHub-and-Version-Control-Tutorial&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=Self-projects&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/Self-projects)
 
