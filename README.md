@@ -12,9 +12,9 @@ Here are some ideas to get you familier about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunM69)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunM69&theme=tokyonight)](https://github.com/ArunM69/github-readme-stats)
+
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunM69&show_icons=true&theme=Gradient)
 
 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you familier about me:
 <a href=""><img src="https://img.shields.io/badge/-Quantum machine learning-313131?style=for-the-badge&labelColor=313131&logo=Quantum&logoColor=blue&color=313131"></img></a>
 
 ## My tutorials:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=quantum-simulation&theme=tokyonight&border_radius=0)](https://github.com/ArunM69/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Machine-Learning-CrashCourse&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=PDE&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/PDE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=PDE&theme=tokyonight&border_radius=0)](https://github.com/ArunM69/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Git-GitHub-and-Version-Control-Tutorial&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
