@@ -1,7 +1,6 @@
 ### Hi there 👋. This is Arunava from India. Call me Arun😄.
 
 
-**ArunM69/ArunM69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you familier about me:
 
