@@ -14,6 +14,9 @@ Here are some ideas to get you familier about me:
 
 [![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunM69)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunM69&theme=tokyonight)](https://github.com/ArunM69/github-readme-stats)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><a href=""><img src="https://img.shields.io/badge/-Mathematica-313131?style=for-the-badge&labelColor=313131&logo=mathematica&logoColor=purple&color=313131"></img></a>
@@ -32,4 +35,8 @@ Here are some ideas to get you familier about me:
 <a href=""><img src="https://img.shields.io/badge/-Quantum sensing and metrology-313131?style=for-the-badge&labelColor=313131&logo=Quantum&logoColor=blue&color=313131"></img></a>
 <a href=""><img src="https://img.shields.io/badge/-Quantum machine learning-313131?style=for-the-badge&labelColor=313131&logo=Quantum&logoColor=blue&color=313131"></img></a>
 
+## My tutorials:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=quantum-simulation&theme=tokyonight&border_radius=0)](https://github.com/ArunM69/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Machine-Learning-CrashCourse&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Git-GitHub-and-Version-Control-Tutorial&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
