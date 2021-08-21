@@ -8,10 +8,10 @@ Here are some ideas to get you familier about me:
 
 - 🔭 I’m currently working as an undergraduate Quantum information researcher. 
 - 🌱 I’m currently interning at world's leading institutions in Quantum science and technology such as Center for Quantum technology(NUS), University college London, Cornell    University and in Harish Chandra research institute on different topics
-- 👯 I’m looking to collaborate on more projects so if you have any idea that you want to share let me at any time. This will be fun ;)
+- 👯 I’m looking to collaborate on more projects so if you have any idea and think I am capable of to collaborate with you then kindly let me know any time. This will be fun ;)
 - 🤔 My current research areas are Quantum information, Variational Quantum algorithms (NISQ), Superconducting quantum computing
 - 📫 Reach me regarding any issue or doubt in the field of Quantum computing @: arunavaangshuman@gmail.com 
-- 😄 
+- 😄 Hardcore fan of Paul M. Dirac from academics and Lionel Messi from sports.
 - ⚡ Fun fact: Ever thought that Newton's Laws are basically the Three Mantras(Hindi) of life! Try it :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunM69&theme=tokyonight)](https://github.com/ArunM69/github-readme-stats)
