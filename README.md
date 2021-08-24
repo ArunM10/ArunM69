@@ -38,7 +38,7 @@ Here are some ideas to get you familier about me:
 <a href=""><img src="https://img.shields.io/badge/-Quantum machine learning-313131?style=for-the-badge&labelColor=313131&logo=Quantum&logoColor=white&color=313031"></img></a>
 
 ## My tutorials:
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=PDE&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/PDE)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=quantum-simulation&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/quantum-simulation)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=PDE-using-VQA&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/PDE-using-VQA)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=Quantum-Simulation-to-learn-Quantum-gates&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/Quantum-Simulation-to-learn-Quantum-gates)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ArunM69&repo=Self-projects&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/ArunM69/Self-projects)
 
