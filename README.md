@@ -5,7 +5,7 @@
 
 
 Here are some ideas to get you familier about me:
-- ⚡ M69 : M69 or, Messier 69 is one of the most metal-rich globular clusters ever observed. Check that out here -> https://www.nasa.gov/feature/goddard/2017/messier-69
+- ⚡ M69 : In case you wonder M69 or, Messier 69 is one of the most metal-rich globular clusters ever observed. Check that out here -> https://www.nasa.gov/feature/goddard/2017/messier-69
 - 🔭 I’m currently working as an undergraduate Quantum information researcher. 
 - 🌱 I’m currently interning at world's leading institutions in Quantum science and technology such as Center for Quantum technology(NUS), University college London, Cornell    University and in Harish Chandra research institute on different topics
 - 👯 I’m looking to collaborate on more projects so if you have any idea and think I am capable of to collaborate with you then kindly let me know any time. This will be fun ;)
